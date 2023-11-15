@@ -1,2 +1,1 @@
-# MEDICO
-Aggregator for medical records
+# STOCK INVENTORY WEBSITE
